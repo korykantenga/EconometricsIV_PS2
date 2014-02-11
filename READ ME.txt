@@ -1,0 +1,3 @@
+The following code is an adaptation from the Matlab Code provided by Frank Schorfheide (http://www.ssc.upenn.edu/~schorf/research.htm) used for Marco Del Negro and Frank Schorfheide (2010) in J. Geweke, G. Koop, and H. van Dijk (eds.) "The Oxford Handbook of Bayesian Econometrics," 2011, Oxford University Press, 293-389.
+
+Please refer to the original documentation for a detailed explanation of the original code.
